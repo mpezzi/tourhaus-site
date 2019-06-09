@@ -32,6 +32,8 @@ A statically generated site made with GatsbyJS for Tour Haus.
     gatsby develop
     ```
 
+    See: [Gatsby Quick Start](https://www.gatsbyjs.org/docs/quick-start) for more information.
+
 ## Deploying
 
 1.  **Deploy code to production server**
@@ -41,3 +43,7 @@ A statically generated site made with GatsbyJS for Tour Haus.
     ```sh
     git push origin master
     ```
+
+2.  **Production site has been updated**
+
+    Visit [https://gracious-franklin-fb6131.netlify.com](https://gracious-franklin-fb6131.netlify.com).
